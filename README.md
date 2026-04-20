@@ -1,0 +1,1 @@
+This is a personal project as I learn how to create a DataFrame using Pandas, a well known Python library used for creating data sets. In this repository, I have created a main python file, and two files being a csv and json to test to read data from them and print them out.
